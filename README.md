@@ -20,6 +20,7 @@ Admin: Perform CRUD ( Create, Read, Update and Delete) operations on notes, user
 ## Download and Setup
 - Clone the repo
 - Install xammp/mamp or environment
+- Start the apache server in case of xampp and go to localhost
 
 ## Use Notewise
 - Notewise: http://localhost/notewise
